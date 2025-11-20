@@ -141,12 +141,3 @@ Run Notebook:
 
 jupyter notebook sentimentanalysis.ipynb
 
-🔮 Future Enhancements
-
-Use Azure Machine Learning for model deployment
-
-Enhance dataset quantity for improved accuracy
-
-Add topic modeling (LDA)
-
-Deploy a dashboard on Power BI Service
